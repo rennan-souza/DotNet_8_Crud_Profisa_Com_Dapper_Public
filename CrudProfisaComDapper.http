@@ -1,0 +1,6 @@
+@CrudProfisaComDapper_HostAddress = http://localhost:5107
+
+GET {{CrudProfisaComDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
